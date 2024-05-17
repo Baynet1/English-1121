@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(53, 52, 52);
+}
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color: aqua;
+}
+
+h3 {
+    color: aqua;
+}
+
+p{
+    color: beige;
+}
+
+.image1{
+    width: 500px;
+    height: 400px;
+}
+
+.image2 {
+    width: 300px;
+    height: 400px;
+}
+
+img {
+    width: 700px;
+    height: 400px;
+  }
+
+ul{
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+}
